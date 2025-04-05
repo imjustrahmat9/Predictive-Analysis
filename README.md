@@ -349,13 +349,13 @@ Berdasarkan hasil yang diperoleh setelah melakukan proses EDA dan pengujiaan mod
     * ***Naive Bayes*** adalah model tercepat namun memiliki performa yang jauh lebih rendah karena asumsi independensi antar fitur yang tidak sesuai dengan dataset.
 
 ## Referensi
-Abdul Rahman. "Klasifikasi Performa Akademik Siswa Menggunakan Metode Decision Tree dan Naive Bayes", Jurnal Saintekom, Vol. 13 No.1 (2023): 22–31. ISSN 2503-3247. SINTA 4. Diakses pada 28 November 2024.
+Abdul Rahman. "Klasifikasi Performa Akademik Siswa Menggunakan Metode Decision Tree dan Naive Bayes", Jurnal Saintekom, Vol. 13 No.1 (2023): 22–31. ISSN 2503-3247. SINTA 4. Diakses pada 5 April 2025.
 
 Ainurrohman & Wiyanti, D. T. "Analisis Performa Algoritma Decision Tree, Naïve Bayes, K-Nearest Neighbor Untuk Klasifikasi Zona Daerah Risiko COVID-19 di Indonesia", JTIIK, Vol. 10 No.1 (2023): 115–122.
 
 Ardilla, Mustika Y., Manuhutu, A., Ahmad, N., dkk. Data Mining dan Aplikasinya, Widina Bhakti Persada Bandung, 2021.
 
-Dicoding. "Machine Learning Terapan". Diakses pada 6 Juli 2024 dari https://www.dicoding.com/academies/319-machine-learning-terapan.
+Dicoding. "Machine Learning Terapan". Diakses pada 5 April 2025 dari https://www.dicoding.com/academies/319-machine-learning-terapan.
 
 Fahrudin, Arif & Warnars, H. L. H. S. "Prediksi Performa Siswa Dengan Metode SAW", KILAT, Vol. 9 No. 1 (2020). P-ISSN 2089-1245, E-ISSN 2655-4925.
 
