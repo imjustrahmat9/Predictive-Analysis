@@ -2,11 +2,16 @@
 
 ## Domain Proyek
 
-Kinerja siswa dalam lingkungan pendidikan memainkan peran penting dalam menentukan keberhasilan akademik dan masa depan mereka. Dalam era digital saat ini, institusi pendidikan memiliki akses ke berbagai data terkait aktivitas belajar siswa, seperti nilai ujian, kehadiran, partisipasi dalam kegiatan ekstrakurikuler, dan data demografis. Namun, potensi data ini seringkali belum dimanfaatkan secara maksimal untuk memberikan wawasan yang dapat membantu meningkatkan hasil belajar siswa.
+Kinerja siswa merupakan faktor krusial dalam menentukan keberhasilan akademik serta masa depan mereka. Di era digital saat ini, institusi pendidikan memiliki akses terhadap beragam data terkait aktivitas belajar siswa, seperti nilai ujian, tingkat kehadiran, partisipasi dalam kegiatan ekstrakurikuler, hingga data demografis. Namun, potensi besar dari data ini sering kali belum dimanfaatkan secara optimal untuk menghasilkan wawasan yang mendalam dalam rangka meningkatkan hasil belajar.
 
-Pendekatan tradisional dalam mengevaluasi kinerja siswa cenderung bersifat reaktif, hanya memberikan perhatian setelah masalah terjadi, seperti penurunan nilai atau tingkat kehadiran yang rendah. Oleh karena itu, diperlukan solusi yang bersifat prediktif untuk mengidentifikasi potensi risiko lebih awal, sehingga institusi pendidikan dapat mengambil langkah-langkah preventif untuk mendukung siswa secara proaktif.
+Pendekatan tradisional dalam menilai performa siswa cenderung bersifat reaktif—institusi baru bertindak setelah masalah muncul, misalnya ketika terjadi penurunan nilai atau kehadiran yang rendah. Oleh karena itu, dibutuhkan pendekatan yang lebih bersifat prediktif, yang mampu mengidentifikasi potensi risiko sejak dini sehingga memungkinkan intervensi proaktif dari pihak sekolah atau institusi.
 
-Predictive analytics memungkinkan institusi pendidikan untuk mengidentifikasi pola performa siswa berdasarkan data historis. Teknologi ini membantu dalam pengambilan keputusan yang proaktif untuk memberikan intervensi yang tepat waktu dan mendukung siswa dalam mencapai hasil terbaik. Pada kasus ini penulis menerapkan 4 model pembelajaran machine learning yakni Random Forest, Naive Bayes, Support Vector Machine (SVM) dan Extreme Gradient Boosting (XGBoost). Pendekatan ini mengintegrasikan keunggulan dari berbagai model untuk membandingkan dan menemukan algoritma terbaik dalam memprediksi performa siswa berdasarkan dataset yang diperoleh dari kaggel dan dapat diakses pada tautan berikut (https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset). Dengan menggunakan model ini, diharapkan hasil prediksi yang akurat dapat membantu institusi pendidikan dalam merancang strategi pembelajaran yang lebih efektif dan personalisasi untuk siswa.
+Melalui predictive analytics, institusi pendidikan dapat mengenali pola performa siswa berdasarkan data historis. Teknologi ini mendukung pengambilan keputusan yang lebih tepat waktu dan berbasis data, untuk memberikan intervensi yang sesuai guna membantu siswa meraih prestasi terbaiknya.
+
+Dalam studi ini, penulis menerapkan empat algoritma machine learning, yaitu: Random Forest, Naive Bayes, Support Vector Machine (SVM), dan Extreme Gradient Boosting (XGBoost). Pendekatan ini dilakukan untuk membandingkan kinerja antar model guna menentukan algoritma terbaik dalam memprediksi performa akademik siswa. Dataset yang digunakan diambil dari platform Kaggle dan dapat diakses melalui tautan berikut:
+👉 Students Performance Dataset – Kaggle (https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset).
+
+Dengan penerapan model prediktif ini, diharapkan institusi pendidikan dapat memperoleh hasil prediksi yang lebih akurat, yang pada akhirnya dapat digunakan untuk merancang strategi pembelajaran yang lebih efektif, tepat sasaran, dan terpersonalisasi sesuai kebutuhan setiap siswa.
 
 ## Business Understanding
 
@@ -22,15 +27,15 @@ Berdasarkan latar belakang tersebut, maka rincian permasalahan yang dapat dibaha
 8. Apa model terbaik yang dapat digunakan untuk memprediksi kinerja siswa?
 
 ### Goals
-Berdasarkan problem statements, berikut tujuan yang ingin dicapai pada proyek ini.
-1. Menampilkan durasi belajar yang lebih efektif.
-2. Mendeteksi pola absensi yang berdampak pada penurunan performa akademik.
-3. Menilai pengaruh bimbingan belajar untuk meningkatkan performa siswa.
-4. Mengidentifikasi apakah ada kesenjangan gender dalam pencapaian akademik.
-5. Menilai dampak kegiatan non-akademik terhadap kinerja akademik.
-6. Mengukur pentingnya keterlibatan orang tua dalam keberhasilan belajar siswa.
-7. Mengukur Faktor yang paling berpengaruh terhadap prediksi GPA Siswa
-8. Menemukan model terbaik berdasarkan akurasi tertinggi untuk memprediksi kinerja siswa.
+1. Berdasarkan rumusan masalah yang telah diidentifikasi, proyek ini bertujuan untuk:
+2. Mengidentifikasi durasi belajar yang optimal guna meningkatkan efektivitas pembelajaran siswa.
+3. Mendeteksi pola absensi yang secara signifikan berdampak pada penurunan performa akademik.
+4. Menganalisis pengaruh bimbingan belajar terhadap peningkatan prestasi akademik siswa.
+5. Mengidentifikasi kesenjangan gender, jika ada, dalam pencapaian akademik siswa.
+6. Mengevaluasi dampak keterlibatan dalam kegiatan non-akademik terhadap kinerja akademik.
+7. Mengukur peran keterlibatan orang tua dalam mendukung keberhasilan belajar siswa.
+8. Menentukan faktor paling berpengaruh dalam memprediksi nilai akhir (GPA) siswa.
+9. Menemukan algoritma machine learning terbaik berdasarkan nilai akurasi tertinggi untuk memprediksi kinerja akademik siswa.
 
 ### Solution Statement
 1. Melakukan proses *Exploratory Data Analysis* (EDA) untuk menampilkan durasi belajar yang lebih efektif, mendeteksi pola absensi yang berdampak pada penurunan performa akademik, menilai efektivitas bimbingan belajar untuk meningkatkan performa siswa, mengidentifikasi apakah ada kesenjangan gender dalam pencapaian akademik, menilai dampak kegiatan non-akademik terhadap kinerja akademik, mengukur pentingnya keterlibatan orang tua dalam keberhasilan belajar siswa
