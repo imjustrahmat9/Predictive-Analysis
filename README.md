@@ -350,12 +350,21 @@ Berdasarkan hasil yang diperoleh setelah melakukan proses EDA dan pengujiaan mod
 
 ## Referensi
 Abdul Rahman. "Klasifikasi Performa Akademik Siswa Menggunakan Metode Decision Tree dan Naive Bayes", Jurnal Saintekom, Vol. 13 No.1 (2023): 22–31. ISSN 2503-3247. SINTA 4. Diakses pada 28 November 2024.
+
 Ainurrohman & Wiyanti, D. T. "Analisis Performa Algoritma Decision Tree, Naïve Bayes, K-Nearest Neighbor Untuk Klasifikasi Zona Daerah Risiko COVID-19 di Indonesia", JTIIK, Vol. 10 No.1 (2023): 115–122.
+
 Ardilla, Mustika Y., Manuhutu, A., Ahmad, N., dkk. Data Mining dan Aplikasinya, Widina Bhakti Persada Bandung, 2021.
-Dicoding. "Machine Learning Terapan". Diakses pada 6 Juli 2024 dari https://www.dicoding.com/academies/319-machine-learning-terapan
+
+Dicoding. "Machine Learning Terapan". Diakses pada 6 Juli 2024 dari https://www.dicoding.com/academies/319-machine-learning-terapan.
+
 Fahrudin, Arif & Warnars, H. L. H. S. "Prediksi Performa Siswa Dengan Metode SAW", KILAT, Vol. 9 No. 1 (2020). P-ISSN 2089-1245, E-ISSN 2655-4925.
+
 Latifah, H. & Mujiyono, S. "Perbandingan Algoritma Naïve Bayes, K-NN, ID3 Dan SVM Dalam Menentukan Prediksi Kelulusan Siswa di SMK Muhamadiah Majenang", JAMASTIKA, Vol. 2 No. 1 (2023): 38–45.
+
 Permana, B. C. & Patwari, I. D. "Komparasi Metode Klasifikasi Data Mining Decision Tree dan Naïve Bayes Untuk Prediksi Penyakit Diabetes", Infotek, Vol. 4 No. 1 (2021): 63–69.
+
 Rasyid, R. M. A. K., Riyanto, A., Widyawati, R., & Istiningsih. "Implementasi Algoritma Naïve Bayes Untuk Sistem Rekomendasi Pemilihan Fakultas di Universitas Amikom Yogyakarta", JIKOM, Vol. 13 No. 1 (2023): 1–9.
+
 Takhamo, Gori, Sunyoto, A., & Al Fatta, H. "Preprocessing Data dan Klasifikasi untuk Prediksi Kinerja Akademik Siswa", JTIIK, Vol. 10 No. 1 (2023): 115–122.
+
 Warnars, H. L. H. S., Saputra, M., & Jonathan, D. "Metode Pengambilan Keputusan Penyeleksian Karyawan Tetap Dengan Metode Simple Additive Weighting (SAW)", KILAT, Vol. 8 No. 2 (2019).
